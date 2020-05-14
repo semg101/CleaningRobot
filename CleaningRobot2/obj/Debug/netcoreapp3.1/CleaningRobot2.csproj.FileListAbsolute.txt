@@ -1,0 +1,13 @@
+C:\Users\saker\source\repos\CleaningRobot2\CleaningRobot2\bin\Debug\netcoreapp3.1\CleaningRobot2.exe
+C:\Users\saker\source\repos\CleaningRobot2\CleaningRobot2\bin\Debug\netcoreapp3.1\CleaningRobot2.deps.json
+C:\Users\saker\source\repos\CleaningRobot2\CleaningRobot2\bin\Debug\netcoreapp3.1\CleaningRobot2.runtimeconfig.json
+C:\Users\saker\source\repos\CleaningRobot2\CleaningRobot2\bin\Debug\netcoreapp3.1\CleaningRobot2.runtimeconfig.dev.json
+C:\Users\saker\source\repos\CleaningRobot2\CleaningRobot2\bin\Debug\netcoreapp3.1\CleaningRobot2.dll
+C:\Users\saker\source\repos\CleaningRobot2\CleaningRobot2\bin\Debug\netcoreapp3.1\CleaningRobot2.pdb
+C:\Users\saker\source\repos\CleaningRobot2\CleaningRobot2\obj\Debug\netcoreapp3.1\CleaningRobot2.csproj.CoreCompileInputs.cache
+C:\Users\saker\source\repos\CleaningRobot2\CleaningRobot2\obj\Debug\netcoreapp3.1\CleaningRobot2.AssemblyInfoInputs.cache
+C:\Users\saker\source\repos\CleaningRobot2\CleaningRobot2\obj\Debug\netcoreapp3.1\CleaningRobot2.AssemblyInfo.cs
+C:\Users\saker\source\repos\CleaningRobot2\CleaningRobot2\obj\Debug\netcoreapp3.1\CleaningRobot2.dll
+C:\Users\saker\source\repos\CleaningRobot2\CleaningRobot2\obj\Debug\netcoreapp3.1\CleaningRobot2.pdb
+C:\Users\saker\source\repos\CleaningRobot2\CleaningRobot2\obj\Debug\netcoreapp3.1\CleaningRobot2.genruntimeconfig.cache
+C:\Users\saker\source\repos\CleaningRobot2\CleaningRobot2\obj\Debug\netcoreapp3.1\CleaningRobot2.csprojAssemblyReference.cache
